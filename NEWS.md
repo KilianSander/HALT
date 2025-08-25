@@ -1,3 +1,8 @@
+# HALT 0.12.2
+
+* added `CITATION`
+* updated email addresses, names, and roles in `DESCRIPTION`
+
 # HALT 0.12.1
 
 * post hoc estimations for SCC
