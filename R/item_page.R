@@ -1,4 +1,4 @@
-HALT_standard_style <- "margin-left:25%;text-align:justify;display:block;margin-right:25%"
+HALT_standard_style <- "margin-left:15%;text-align:justify;display:block;margin-right:15%"
 HALT_answer_format <- "tibble"
 
 media_js <- list(
