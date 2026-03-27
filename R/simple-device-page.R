@@ -1,3 +1,8 @@
+#' Playback device self-report page
+#'
+#' This function creates a page where participant report their playback device.
+#'
+#' @inheritParams HALT
 simple_device_page <- function(dict = HALT::HALT_dict) {
   psychTestR::new_timeline(
     psychTestR::NAFC_page(
