@@ -1,3 +1,6 @@
+# HALT 0.12.4
+* added `simple_device_page()`
+
 # HALT 0.12.3
 
 * `dict` is now passed to all pages. This means that you can now use custom internationalization dictionaries.

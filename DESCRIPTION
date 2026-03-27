@@ -1,13 +1,13 @@
 Package: HALT
 Type: Package
 Title: Headphone and Loudspeaker Test
-Version: 0.12.3
+Version: 0.12.4
 Authors@R: c(
   person("Klaus", "Frieler", role = c("aut"), comment=c(ORCID="0000-0002-6055-377X")),
   person("Yves", "Wycisk", role = c("aut"), comment=c(ORCID="0000-0001-9969-525X")),
   person("Kilian", "Vogt", email = "kilian.vogt@hmtm-hannover.de", role = c("aut", "cre"), comment=c(ORCID="0000-0003-3770-7483"))
   )
-Maintainer: Klaus Frieler <kf@omniversum.de>
+Maintainer: Kilian Vogt <kilian.vogt@hmtm-hannover.de>
 Description: Implementation of a headphone and loudspeaker test for online experiments.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -31,6 +31,6 @@ Suggests:
     knitr,
     rmarkdown
 Remotes: pmcharrison/psychTestR, klausfrieler/RAT
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3
 VignetteBuilder: knitr
 RdMacros: Rdpack
